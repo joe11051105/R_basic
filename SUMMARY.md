@@ -2,3 +2,4 @@
 	+ [安裝與更新 R](environment_settings/install_R.md)
 	+ [安裝 RStudio](environment_settings/install_RStudio.md)
 	+ [Rstudio 基本介紹](environment_settings/RStudio_introduction.md)
+	+ [切換 R 的版本](environment_settings/Change_R_version.md)
