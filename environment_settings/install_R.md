@@ -2,15 +2,15 @@
 
 ### Step1：開啓 [R](http://www.r-project.org) 官方網站
 
-![Download R - Step1](https://dl.dropboxusercontent.com/u/42522448/R/basic/download-1.png)
+![Download R - Step1](../image/environment_settings/download-1.png)
 
 ### Step2：選擇 Taiwan 任一個載點
 
-![Download R - Step2](https://dl.dropboxusercontent.com/u/42522448/R/basic/download-2.png)
+![Download R - Step2](../image/environment_settings/download-2.png)
 
 ### Step3：選擇作業系統(作者本身是 Mac)
 
-![Download R - Step3](https://dl.dropboxusercontent.com/u/42522448/R/basic/download-3.png)
+![Download R - Step3](../image/environment_settings/download-3.png)
 
 ### Step4：選擇下載的項目(有三種)
 
@@ -20,7 +20,7 @@
 
 => 選擇 1 或 2 都可以，第一次安裝可以選擇 1，看看 GUI 畫面是什麼樣子，但之後會介紹 RStudio 比原始的 GUI 好用很多。
 
-![Download R - Step4](https://dl.dropboxusercontent.com/u/42522448/R/basic/download-4.png)
+![Download R - Step4](../image/environment_settings/download-4.png)
 
 ### Step5：執行下載的檔案完成安裝。
 
