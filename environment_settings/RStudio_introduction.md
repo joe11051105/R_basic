@@ -68,4 +68,8 @@ help(sum)
 + [Dash](http://kapeli.com/dash)：針對 Mac 使用者。
 + [Velocity](http://velocity.silverlakesoftware.com)：針對 Windows 使用者，聽說背後的文件來源是來自 Dash。
 
-雖然以上兩個軟體都是要錢，可是保證可以大幅提升工作效率。
+以下是 Dash 的畫面。
+
+![Dash - Home](../image/environment_settings/dash-1.png)
+
+![Dash - Search](../image/environment_settings/dash-2.png)
