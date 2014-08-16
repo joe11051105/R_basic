@@ -11,4 +11,12 @@
 * [Chapter 2 - 基本運算](basic_operation/README.md)
    * [資料屬性](basic_operation/data_attribute.md)
    * [常見運算](basic_operation/common_operation.md)
+* [Chapter 3 - 變數與資料](variable_and_data/README.md)
+   * [變數](variable_and_data/variable.md)
+   * [向量](variable_and_data/vector.md)
+   * [陣列](variable_and_data/array.md)
+   * [矩陣](variable_and_data/matrix.md)
+   * [因子](variable_and_data/factor.md)
+   * [列表](variable_and_data/list.md)
+   * [資料框架](variable_and_data/data_frame.md)
 
