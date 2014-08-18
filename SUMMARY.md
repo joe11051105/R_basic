@@ -19,4 +19,8 @@
    * [因子](variable_and_data/factor.md)
    * [列表](variable_and_data/list.md)
    * [資料框架](variable_and_data/data_frame.md)
+* [Chapter 4 - 資料匯入與輸出](data_import_and_export/README.md)
+   * [匯入資料](data_import_and_export/import_data.md)
+   * [輸出資料](data_import_and_export/export_data.md)
+   * [讀取資料庫的資料](data_import_and_export/load_database.md)
 
