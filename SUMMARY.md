@@ -23,4 +23,9 @@
    * [匯入資料](data_import_and_export/import_data.md)
    * [輸出資料](data_import_and_export/export_data.md)
    * [讀取資料庫的資料](data_import_and_export/load_database.md)
+* [Chapter 5 - 流程控制](control_flow/README.md)
+   * [邏輯判斷式](control_flow/logic_decision.md)
+   * [條件執行](control_flow/conditional_execution.md)
+   * [迴圈結構](control_flow/loop.md)
+
 
