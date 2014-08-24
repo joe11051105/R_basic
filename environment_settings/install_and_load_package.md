@@ -30,5 +30,6 @@
 > install.packages("devtools")
 > require(devtools)
 > install_github("rpensoft", "ropensci") # package 名稱為 rpensoft，repository 名稱為 ropensci，對應到的 github 網址為 https://github.com/ropensci/rpensoft。
-
 ```
+
+至於 Bioconductor package 下載的部份，可以參考[官網](http://master.bioconductor.org/install/#install-bioconductor-packages)的介紹。
