@@ -27,5 +27,8 @@
    * [邏輯判斷式](control_flow/logic_decision.md)
    * [條件執行](control_flow/conditional_execution.md)
    * [迴圈結構](control_flow/loop.md)
-
+* [Chapter 6 - 資料整理](arrange_data/README.md)
+   * [重新編碼](arrange_data/recode.md)
+   * [資料變形](arrange_data/reshape.md)
+   * [資料合併與分割](arrange_data/merge_and_subsetting.md)
 
