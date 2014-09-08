@@ -33,4 +33,5 @@
    * [資料合併與分割](arrange_data/merge_and_subsetting.md)
 * [Chapter 7 - 自訂函數](customize_function/README.md)
    * [定義函數](customize_function/define_function.md)
+   * [建立 .First 與 .Last 函數](customize_function/initialize.md)
 
