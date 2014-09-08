@@ -31,4 +31,6 @@
    * [重新編碼](arrange_data/recode.md)
    * [資料變形](arrange_data/reshape.md)
    * [資料合併與分割](arrange_data/merge_and_subsetting.md)
+* [Chapter 7 - 自訂函數](customize_function/README.md)
+   * [定義函數](customize_function/define_function.md)
 
