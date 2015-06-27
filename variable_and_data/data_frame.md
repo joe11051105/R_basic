@@ -44,7 +44,7 @@ Levels: Bob Joe Vicky
 ```
 
 ### 基本相關函數
-+ header：取得資料框架前六比資料(預設是 6)。
++ head：取得資料框架前六比資料(預設是 6)。
 + names：修改或查詢 column 名稱。
 + colnames：設定 column 名稱。
 + row.names：修改或查詢 row 名稱。
