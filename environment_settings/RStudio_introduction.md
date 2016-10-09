@@ -28,7 +28,7 @@ RStudio 是一個 [IDE](http://zh.wikipedia.org/wiki/集成开发环境)，在�
 
 ### Files、Plots、Packages、Help、Viewer
 + Files：是讓使用者了解所在的工作環境是在哪個目錄，這個對讀取檔案非常重要。
-+ Ploats：顯示使用者畫好的圖表。
++ Plots：顯示使用者畫好的圖表。
 + Package：記錄目前已安裝的 Package，打勾代表已經載入，安裝 Package 請點選「Install」。
 + Help：查詢文件使用，在 Console 輸入 help()，() 輸入所要查詢方法的名稱，ex：help(sum)。
 + Viewer：是用來顯示網頁或 html file。
