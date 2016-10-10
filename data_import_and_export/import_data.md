@@ -12,7 +12,7 @@ read.table 可以讀取大多數的 ASCII 資料，以下先以 CSV 檔為代表
 
 > data <- read.table("Desktop/data.csv", header = FALSE, sep = ",", skip = 10) # skip 是指跳過前 X 筆資料，這個部份要注意，要跳過資料，column 欄位就不可以出現在資料裡，因為它也被算在要 skip 部份。
 
-> data <- read.table("Desktop/data.csv", header = TUE, sep = ",", encoding = "UTF-8") # encoding 是指定檔案的文字編碼
+> data <- read.table("Desktop/data.csv", header = TRUE, sep = ",", encoding = "UTF-8") # encoding 是指定檔案的文字編碼
 
 > data <- read.table("Desktop/data.csv", header = TRUE, sep = ",", na.strings = NA) # na.strings 指定發生 NA 要用什麼符號代替。
 ```
